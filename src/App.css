@@ -1,0 +1,21 @@
+.App {
+  width:100%;
+  background-color: darkred;
+  padding:50px 10px;
+
+}
+
+h1{
+  text-align: center;
+  font-weight: 3rem;
+  color:purple;
+}
+.Content{
+  display:table;
+  max-width:800px;
+  width:100%;
+  margin: 0 auto;
+  background-color: #fff;
+  padding:30px;
+}
+
